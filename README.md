@@ -6,7 +6,7 @@
 
 **Screencast Video:** https://harvard.zoom.us/rec/share/Qcskqjk_eWMdr2WOEZ2b_jhVxzgbVB6AaImCU_NRxYqgrSJ_P3extq3GZ3AKeKJ9.X__UhYddvOY7W6Sp?startTime=1702310839000
 
-**Live Site:** https://miw677.github.io/cs171project 
+**Live Site:** https://miw677.github.io/michelin-star-visualization 
 
 
 ## Prerequisites
