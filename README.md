@@ -39,44 +39,44 @@
 ```
 
 ### CSS:
-fullpage.css: library. enables horizontal scrolling view of our website
-style.css: our stylesheet for the website
-leaflet.css: library. stylesheet for map drawing  (Michelin US map & Bochelin map)
+`fullpage.css`: library. enables horizontal scrolling view of our website
+`style.css`: our stylesheet for the website
+`leaflet.css`: library. stylesheet for map drawing  (Michelin US map & Bochelin map)
 
 ### data:
-MBTA-Lines.json: for drawing the MBTA lines in Boston for Bochelin map
-YELP.Restaurants.MA.csv: Yelp Restaurant information in MA, for Bochelin map
-Michelin_us_processed_subcat.csv: data for Michelin restaurants in the US; used across Word cloud, Michelin US map, Sunburst, Sankey, Star Pick bar plot
+`MBTA-Lines.json`: for drawing the MBTA lines in Boston for Bochelin map
+`YELP.Restaurants.MA.csv`: Yelp Restaurant information in MA, for Bochelin map
+`Michelin_us_processed_subcat.csv`: data for Michelin restaurants in the US; used across Word cloud, Michelin US map, Sunburst, Sankey, Star Pick bar plot
 
 ### Img
 Contains marker image for maps (Michelin US map & Bochelin map)
 
 ### JS
-D3.layout.cloud.js: library for word cloud 
-Fullpage.js: library for horizontal scrolling view of our website page
-Leaflet.js: library for leaflet map 
-Main.js: our code for loading all data and initiate all instances 
-cloud.js: our code for the WordCloud class that wrangles data and draws the word cloud visualization.
-Map.js: our code for the US map for all michelin restaurants 
-newSunburst.js: our code for visualizing sunburst in a hierarchical data structure
-sankeyVis.js: our code for the SankeyVis class that wrangles data and draws the Sankey visualization.
-starPickVis.js: our code for the StarPick class that wrangles data and draws the word Star Pick barplot visualization.
-Bostonmap.js: our code for the BostonMap class that wrangles data and draws the Bochelin map visualization.
+`D3.layout.cloud.js`: library for word cloud 
+`Fullpage.js`: library for horizontal scrolling view of our website page
+`Leaflet.js`: library for leaflet map 
+`Main.js`: our code for loading all data and initiate all instances 
+`cloud.js`: our code for the WordCloud class that wrangles data and draws the word cloud visualization.
+`Map.js`: our code for the US map for all michelin restaurants 
+`newSunburst.js`: our code for visualizing sunburst in a hierarchical data structure
+`sankeyVis.js`: our code for the SankeyVis class that wrangles data and draws the Sankey visualization.
+`starPickVis.js`: our code for the StarPick class that wrangles data and draws the word Star Pick barplot visualization.
+`Bostonmap.js`: our code for the BostonMap class that wrangles data and draws the Bochelin map visualization.
 
 
 ### Index.html: 
-includes css libraries in the beginning marked by “<!-- Load CSS libraries -->”  
-includes bootstrap libraries marked by “<!-- BOOTSTRAP -->”
-includes javascript libraries marked by “<!-- D3 and Libraries -->”
-includes our own Javascript files marked by “<!-- OWN JS -->”  
+includes css libraries in the beginning marked by `<!-- Load CSS libraries -->`  
+includes bootstrap libraries marked by `<!-- BOOTSTRAP -->`
+includes javascript libraries marked by `<!-- D3 and Libraries -->`
+includes our own Javascript files marked by `<!-- OWN JS -->`  
 
 
 ## Initiation
 
-1. Clone the project repository: https://github.com/miw677/cs171project
+1. Clone the project repository
 2. Change into the project directory
 3. Start localhost server environment
-4. Open index.html
+4. Open `index.html`
 
 
 ## Features
