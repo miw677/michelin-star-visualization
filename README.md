@@ -22,7 +22,7 @@
 
 
 ## Project files
-
+```
 |–––>css
       |–––>fullpage.css
       |–––>style.css
@@ -36,7 +36,7 @@
 |–––>js
 |–––>js
 |–––>index.html
-
+```
 
 ### CSS:
 fullpage.css: library. enables horizontal scrolling view of our website
